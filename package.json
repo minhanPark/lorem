@@ -1,0 +1,13 @@
+{
+  "name": "@runningwater/lorem",
+  "version": "0.0.2",
+  "description": "returns a Lorem ipsum string",
+  "license": "MIT",
+  "repository": "minhanPark/lorem",
+  "main": "index.js",
+  "keywords": [
+    "Lorem",
+    "string",
+    "runningwater"
+  ]
+}
