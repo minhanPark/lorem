@@ -4,7 +4,7 @@
   "description": "returns a Lorem ipsum string",
   "license": "MIT",
   "repository": "minhanPark/lorem",
-  "main": "index.js",
+  "main": "build/index.js",
   "scripts": {
     "dev": "webpack --mode development",
     "prod": "webpack --mode production"
